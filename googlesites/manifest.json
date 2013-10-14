@@ -1,0 +1,17 @@
+{
+	"name":"Google Sites",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to google sites",
+	"app": {
+			"urls":["https://sites.google.com/"],
+			"launch": {
+				"web_url":"https://sites.google.com/"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}

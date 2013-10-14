@@ -1,0 +1,17 @@
+{
+	"name":"Codecademy",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to codecademy",
+	"app": {
+			"urls":["http://www.codecademy.com/"],
+			"launch": {
+				"web_url":"http://www.codecademy.com/"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}

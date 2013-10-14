@@ -1,0 +1,17 @@
+{
+	"name":"Webflis",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to webflis seach",
+	"app": {
+			"urls":["http://www.dlis.dla.mil/webflis/pub/pub_search.aspx"],
+			"launch": {
+				"web_url":"http://www.dlis.dla.mil/webflis/pub/pub_search.aspx"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}

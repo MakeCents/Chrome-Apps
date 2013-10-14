@@ -1,0 +1,17 @@
+{
+	"name":"Amazon",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to my amazon account",
+	"app": {
+			"urls":["https://www.amazon.com/gp/css/homepage.html?ie=UTF8&ref_=gno_yam_ya&"],
+			"launch": {
+				"web_url":"https://www.amazon.com/gp/css/homepage.html?ie=UTF8&ref_=gno_yam_ya&"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}

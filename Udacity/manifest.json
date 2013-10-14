@@ -1,0 +1,17 @@
+{
+	"name":"Udacity",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to my courses in Udacity",
+	"app": {
+			"urls":["https://www.udacity.com/my_courses"],
+			"launch": {
+				"web_url":"https://www.udacity.com/my_courses"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}

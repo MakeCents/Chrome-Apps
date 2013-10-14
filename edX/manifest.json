@@ -1,0 +1,17 @@
+{
+	"name":"edX",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to edX",
+	"app": {
+			"urls":["https://courses.edx.org/dashboard"],
+			"launch": {
+				"web_url":"https://courses.edx.org/dashboard"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}
