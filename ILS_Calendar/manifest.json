@@ -1,0 +1,17 @@
+{
+	"name":"ILS Calendar",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to ILS Calendar",
+	"app": {
+			"urls":["https://w2.intlogsys.com/webcalendar/month.php"],
+			"launch": {
+				"web_url":"https://w2.intlogsys.com/webcalendar/month.php"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}

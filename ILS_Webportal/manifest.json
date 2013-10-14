@@ -1,0 +1,17 @@
+{
+	"name":"Web Portal",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to webportal",
+	"app": {
+			"urls":["http://66.216.164.86/webportal/Default.aspx"],
+			"launch": {
+				"web_url":"http://66.216.164.86/webportal/Default.aspx"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}
