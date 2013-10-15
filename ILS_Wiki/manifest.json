@@ -4,9 +4,9 @@
 	"manifest_version":2,
 	"description":"Link to ILS Wiki",
 	"app": {
-			"urls":["https://w2.intlogsys.com/media/index.php/User:Dgillespie"],
+			"urls":["https://w2.intlogsys.com/media/index.php/Special:UserLogin"],
 			"launch": {
-				"web_url":"https://w2.intlogsys.com/media/index.php/User:Dgillespie"
+				"web_url":"https://w2.intlogsys.com/media/index.php/Special:UserLogin"
 			}
 		},
 	"icons": {

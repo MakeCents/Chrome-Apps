@@ -1,0 +1,17 @@
+{
+	"name":"USAA",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to USAA",
+	"app": {
+			"urls":["https://www.usaa.com/inet/ent_logon/Logon?adid=icgsch49277486-VQ16-c"],
+			"launch": {
+				"web_url":"https://www.usaa.com/inet/ent_logon/Logon?adid=icgsch49277486-VQ16-c"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}
