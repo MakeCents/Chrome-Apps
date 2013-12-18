@@ -4,9 +4,9 @@
 	"manifest_version":2,
 	"description":"Link to webportal",
 	"app": {
-			"urls":["http://66.216.164.86/webportal/Default.aspx"],
+			"urls":["http://173.163.11.236/webportal/Default.aspx"],
 			"launch": {
-				"web_url":"http://66.216.164.86/webportal/Default.aspx"
+				"web_url":"http://173.163.11.236/webportal/Default.aspx"
 			}
 		},
 	"icons": {
