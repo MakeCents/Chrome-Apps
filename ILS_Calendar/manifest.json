@@ -4,9 +4,9 @@
 	"manifest_version":2,
 	"description":"Link to ILS Calendar",
 	"app": {
-			"urls":["https://w2.intlogsys.com/webcalendar/month.php"],
+			"urls":["https://w2.intlogsys.com/webcalendar/login.php"],
 			"launch": {
-				"web_url":"https://w2.intlogsys.com/webcalendar/month.php"
+				"web_url":"https://w2.intlogsys.com/webcalendar/login.php"
 			}
 		},
 	"icons": {

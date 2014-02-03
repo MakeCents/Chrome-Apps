@@ -4,9 +4,9 @@
 	"manifest_version":2,
 	"description":"Link to template",
 	"app": {
-			"urls":["https://"],
+			"urls":["https://google.com"],
 			"launch": {
-				"web_url":"https://"
+				"web_url":"https://google.com"
 			}
 		},
 	"icons": {

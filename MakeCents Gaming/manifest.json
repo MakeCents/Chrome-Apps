@@ -1,0 +1,17 @@
+{
+	"name":"MakeCents",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Trying to make an App",
+	"app": {
+			"urls":["https://sites.google.com/site/makecentsgaming/home"],
+			"launch": {
+				"web_url":"https://sites.google.com/site/makecentsgaming/home"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}
