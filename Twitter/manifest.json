@@ -1,0 +1,17 @@
+{
+	"name":"MakeCents Twitter",
+	"version": "1.0",
+	"manifest_version":2,
+	"description":"Link to Twitter",
+	"app": {
+			"urls":["https://twitter.com/?lang=en"],
+			"launch": {
+				"web_url":"https://twitter.com/?lang=en"
+			}
+		},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"128": "icon.png"
+	}
+}
